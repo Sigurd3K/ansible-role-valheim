@@ -1,3 +1,4 @@
 ---
 roles:
-  - stonesoupkitchen.linuxgsm
+  - src: https://github.com/Sigurd3K/ansible-role-linuxgsm
+    name: stonesoupkitchen.linuxgsm
